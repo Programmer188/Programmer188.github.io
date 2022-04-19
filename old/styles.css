@@ -1,0 +1,29 @@
+
+
+html{
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	
+}
+
+
+
+.container-fluid{
+	min-height: 800px;
+	background: url('img/me.jpg') center/cover no-repeat;
+	color:#ffff;
+
+}
+
+.my_projects {
+	display: block;
+	left: 10px;
+}
+
+.my_projects a{
+	color: #39bedc;
+}
+
+
+
